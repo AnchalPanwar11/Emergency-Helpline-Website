@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#maindiv
+{
+	position:relative;
+	height:1000px;
+	width:1300px;
+	background-color:#FC6;
+}
+#headerdiv
+{
+	position:relative;
+	height:140px;
+	width:1300px;
+	background-color:#993;
+}
+#menudiv
+{
+	position:relative;
+	height:50px;
+	width:1300px;
+	background-color:#969;
+}

@@ -1,0 +1,218 @@
+/* CSS Document */
+#maindiv
+{
+    position:relative;
+	width:1400px;
+	background-color:#FFF;
+}
+#menudiv2
+{
+	position:relative;
+	height:35px;
+	width:1400px;
+	background-color:#CCCCCC;
+}
+#menudiv1
+{
+	position:relative;
+	height:30px;
+	width:207px;
+}
+#menudiv1 a
+{
+	position:relative;
+	display:block;
+	text-decoration:none;
+	color:#000000;
+}
+#menudiv1 a:hover
+{
+	position:relative;
+	color:#009999;
+}
+#headerdiv
+{
+    position:relative;
+	height:45px;
+	width:1400px;
+	background-color:#009999;
+}
+#menudiv
+{
+    position:relative;
+	height:40px;
+	width:1400px;
+	background-color:#CCCCCC;
+}
+#menudiv a
+{
+    position:relative;
+	text-decoration:none;
+	display:block;
+	color:#000000;
+}
+#menudiv a:hover
+{
+    position:relative;
+	font-size:17px;
+}
+#bodydiv2
+{
+    position:relative;
+	width:1400px;
+}
+#bodydiv
+{
+    position:relative;
+	width:1400px;
+	background-color:#FFFFFF;
+}
+#bodydiv8
+{
+	position:relative;
+	height:150px;
+	width:1400px;
+	background-color:#FFFFFF;
+}
+#bodydiv8t
+{
+	position:relative;
+	height:50px;
+	width:250px;
+	border-radius:15px;
+	background-color:#009999;
+}
+#bodydiv8t a
+{
+	position:relative;
+	display:block;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#bodydiv8t a:hover
+{
+	position:relative;
+	text-decoration:underline;
+}
+#linediv
+{
+	position:relative;
+	background-color:#666;
+	width:1400px;
+	height:5px;
+}
+#footerdiv
+{
+    position:relative;
+	height:305px;
+	width:1400px;
+	background-color:#009999;
+}
+#footert1
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert1 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert1 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert2
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert2 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+	display:block;
+}
+#footert2 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert3
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert3 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert3 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert4
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert4 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert4 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#table1
+{
+    position:relative;
+	width:350px;
+	background-color:#FFF;
+}
+#table1 a
+{
+    position:relative;
+	text-decoration:none;
+	display:block;
+	color:#000000;
+	font-size:18px;
+}
+#table1 a:hover
+{
+    position:relative;
+	color:#009999;
+}
+#table1a
+{
+    position:relative;
+	height:41px;
+	width:350px;
+	background-color:#CCC;
+}
+#table2a
+{
+    position:relative;
+	height:3px;
+	width:350px;
+	background-color:#666;
+}
+#table2
+{
+    position:relative;
+	width:1050px;
+	background-color:#FFF
+}

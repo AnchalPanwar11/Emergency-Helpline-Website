@@ -1,0 +1,157 @@
+/* CSS Document */
+#maindiv
+{
+   position:relative;
+   width:1250px;
+   background-color:#FFFFFF;
+}
+#headerdiv
+{
+    position:relative;
+	height:60px;
+	width:1250px;
+	background-color:#009999;
+}
+#header1
+{
+	position:relative;
+	height:50px;
+	width:950px;
+	background-color:#999;
+}
+#bodydiv
+{
+    position:relative;
+	width:1250px;
+	background-color:#CCC;
+}
+#bodydiv2
+{
+	position:relative;
+	background-color:#FFF;
+	height:200px;
+	width:950px;
+}
+#linediv
+{
+	position:relative;
+	height:3px;
+	width:950;
+	background-color:#666;
+}
+#footerdiv
+{
+    position:relative;
+	height:305px;
+	width:1250px;
+	background-color:#009999;
+}
+#footert1
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert1 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert1 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert2
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert2 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+	display:block;
+}
+#footert2 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert3
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert3 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert3 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert4
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert4 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert4 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+
+#table1
+{
+    position:relative;
+	width:300px;
+	background-color:#CCC;
+}
+#table1 a
+{
+    position:relative;
+	text-decoration:none;
+	display:block;
+	color:#000000;
+	font-size:18px;
+}
+#table1 a:hover
+{
+    position:relative;
+	color:#009999;
+}
+#table1a
+{
+    position:relative;
+	height:30px;
+	width:300px;
+	background-color:#CCC;
+}
+#table2a
+{
+    position:relative;
+	height:2px;
+	width:300px;
+	background-color:#666;
+}
+#table2
+{
+    position:relative;
+	width:950px;
+	background-color:#FFF;
+}

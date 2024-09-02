@@ -1,0 +1,276 @@
+/* CSS Document */
+#maindiv
+{
+   position:relative;
+   width:1450px;
+   background-color:#FFFFFF;
+}
+#headerdiv
+{
+	position:relative;
+	height:90px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#menudiv
+{
+	position:relative;
+	height:35px;
+	width:1450px;
+	background-color:#CCCCCC;
+}
+#menudiv1
+{
+	position:relative;
+	height:30px;
+	width:207px;
+}
+#menudiv1 a
+{
+	position:relative;
+	display:block;
+	text-decoration:none;
+	color:#000000;
+}
+#menudiv1 a:hover
+{
+	position:relative;
+	color:#009999;
+}
+#bodydiv1
+{
+	position:relative;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodysmall
+{
+	position:relative;
+	height:10px;
+	width:1450px;
+	background-color:#CCCCCC;
+}
+#bodydiv2
+{
+	position:relative;
+	height:15px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv3
+{
+	position:relative;
+	height:200px;
+	width:1450px;
+	background-color:#CCCCCC;
+}
+#bodydiv4
+{
+	position:relative;
+	height:280px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv5
+{
+	position:relative;
+	height:480px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv5t
+{
+	position:relative;
+	height:330px;
+	width:290px;
+	background-color:#FFFFFF;
+}
+#bodydiv6
+{
+	position:relative;
+	height:340px;
+	width:1450px;
+	background-color:#0066FF;
+}
+#bodydiv7
+{
+	position:relative;
+	height:600px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv8
+{
+	position:relative;
+	height:150px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv8t
+{
+	position:relative;
+	height:50px;
+	width:250px;
+	border-radius:15px;
+	background-color:#009999;
+}
+#bodydiv8t a
+{
+	position:relative;
+	display:block;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#bodydiv8t a:hover
+{
+	position:relative;
+	text-decoration:underline;
+}
+#bodydiv9
+{
+	position:relative;
+	height:200px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv10
+{
+	position:relative;
+	height:200px;
+	width:1450px;
+	background-color:#99FFCC;
+}
+#bodydiv10h
+{
+	position:relative;
+	height:35px;
+	width:1450px;
+	background-color:#FFFFFF;
+}
+#bodydiv10d1
+{
+	position:relative;
+	height:200px;
+	width:300px;
+	background-color:#CCCCCC;
+}
+#bodydiv10d2
+{
+	position:relative;
+	height:200px;
+	width:1150px;
+	background-color:#CCCCCC;
+}
+#bodydiv10s
+{
+	position:relative;
+	height:3px;
+	width:1450px;
+	background-color:#999999;
+}
+#bodydiv11a
+{
+	position:relative;
+	height:40px;
+	width:350px;
+	background-color:#FFFFFF;
+}
+#bodydiv11b
+{
+	position:relative;
+	height:200px;
+	width:500px;
+	background-color:#FFFFFF;
+	border-radius:12px;
+}
+#bodydiv11b a
+{
+	position:relative;
+	color:#666666;
+	text-decoration:none;
+	display:block;
+}
+#bodydiv11b a:hover
+{
+	position:relative;
+	color:#009999;
+}
+#footerdiv
+{
+    position:relative;
+	height:305px;
+	width:1450px;
+	background-color:#009999;
+}
+#footert1
+{
+    position:relative;
+	height:305px;
+	width:362px;
+}
+#footert1 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert1 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert2
+{
+    position:relative;
+	height:305px;
+	width:362px;
+}
+#footert2 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+	display:block;
+}
+#footert2 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert3
+{
+    position:relative;
+	height:305px;
+	width:362px;
+}
+#footert3 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert3 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert4
+{
+    position:relative;
+	height:305px;
+	width:362px;
+}
+#footert4 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert4 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+
+
+

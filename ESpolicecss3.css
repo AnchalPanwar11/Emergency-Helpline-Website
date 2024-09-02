@@ -1,0 +1,119 @@
+/* CSS Document */
+#maindiv
+{
+    position:relative;
+	height:1000px;
+	width:1400px;
+	background-color:#99CC66;
+}
+#headerdiv
+{
+    position:relative;
+	height:165px;
+	width:1400px;
+	background-color:#009999;
+}
+#menudiv
+{
+    position:relative;
+	height:50px;
+	width:1400px;
+	background-color:#CCCCCC;
+}
+#menudiv a
+{
+    position:relative;
+	text-decoration:none;
+	display:block;
+	color:#000000;
+}
+#menudiv a:hover
+{
+    position:relative;
+	font-size:17px;
+}
+#bodydiv
+{
+    position:relative;
+	height:480px;
+	width:1400px;
+	background-color:#FFFFFF;
+}
+#footerdiv
+{
+    position:relative;
+	height:305px;
+	width:1400px;
+	background-color:#009999;
+}
+#footert1
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert1 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert1 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert2
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert2 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+	display:block;
+}
+#footert2 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert3
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert3 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert3 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+#footert4
+{
+    position:relative;
+	height:305px;
+	width:350px;
+}
+#footert4 a
+{
+    position:relative;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#footert4 a:hover
+{
+    position:relative;
+	text-decoration:underline;
+}
+
+
